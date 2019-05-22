@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page!
+# You can never leave....
 
-You can use the [editor on GitHub](https://github.com/WAlmmy/codebunker_group1_ex1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can download the code for this on [GitHub](https://github.com/WAlmmy/codebunker_group1_ex1/edit/master/index.md). I don't know why you would ever do this, since this is a terrible project :(
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Jekyll](https://jekyllrb.com/) will rebuild the pages in this site, from the content in the Markdown files.
 
 ### Markdown
 
